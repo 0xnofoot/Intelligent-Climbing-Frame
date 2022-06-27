@@ -1,0 +1,9 @@
+Change Component Designator: OldDesignator=P2_GPS NewDesignator=GPS
+Change Component Designator: OldDesignator=P3_VCC_5 NewDesignator=5V
+Change Component Designator: OldDesignator=P4_VCC_3.3 NewDesignator=3V3
+Change Component Designator: OldDesignator=P5_GND NewDesignator=GND
+Change Component Designator: OldDesignator=P6_UART NewDesignator=UART
+Change Component Designator: OldDesignator=P7_Ser_UART NewDesignator=Ser
+Change Component Designator: OldDesignator=P9_485 NewDesignator=RS485
+Change Component Designator: OldDesignator=P10_Relay1 NewDesignator=Relay1
+Change Component Designator: OldDesignator=P11_Relay2 NewDesignator=Relay2

@@ -1,0 +1,49 @@
+Altium Designer Pick and Place Locations
+C:\Users\NoFoot\Desktop\Master_PCB\Project Outputs for Master\Pick Place for Master_Pcb.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       15-11-19
+Time:       21:53
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+"Designator","Comment","Layer","Footprint","Center-X(mil)","Center-Y(mil)","Rotation","Description"
+"U7","L7805CV","TopLayer","L7805CV","905.512","393.701","360",""
+"U2","lora","TopLayer","loara","1958.662","3469.292","90",""
+"U5","MAX485","TopLayer","SOP-8","4000.590","3687.008","90",""
+"Relay2","Relay_single","TopLayer","Relay_single","2952.756","368.898","90",""
+"Relay1","Relay_single","TopLayer","Relay_single","2194.882","368.898","90",""
+"U4","DTU","TopLayer","DTU","2716.536","2185.039","360",""
+"U1","STM32_F4","TopLayer","STM32_F4","935.039","2540.167","0",""
+"S2","S9013_NPN","TopLayer","S9013_NPN","3464.567","217.323","0",""
+"S1","S9013_NPN","TopLayer","S9013_NPN","3464.567","621.654","0",""
+"R5","Res1","TopLayer","AXIAL-0.3","1635.433","364.173","180","Resistor"
+"R4","Res1","TopLayer","AXIAL-0.3","1635.433","255.906","180","Resistor"
+"R3","Res1","TopLayer","AXIAL-0.3","1635.433","157.480","180","Resistor"
+"R2","Res1","TopLayer","AXIAL-0.3","1636.662","59.688","180","Resistor"
+"R1","Res","TopLayer","R2012","3720.472","3569.685","180","ÌùÆ¬µç×è"
+"P11_Relay2","3Õë×ù×Ó","TopLayer","3Õë×ù×Ó","3937.008","836.614","0",""
+"P10_Relay1","3Õë×ù×Ó","TopLayer","3Õë×ù×Ó","3937.008","157.480","0",""
+"P9_Lora","Header 5","TopLayer","HDR1X5","2668.110","994.093","180","Header, 5-Pin"
+"P9_485","3Õë×ù×Ó","TopLayer","3Õë×ù×Ó","3937.008","1479.528","0",""
+"P7_Ser_UART","Header 3","TopLayer","HDR1X3","4064.961","2303.150","270","Header, 3-Pin"
+"P6_UART","Header 3","TopLayer","HDR1X3","2096.458","994.094","360","Header, 3-Pin"
+"P5_GND","Header 3","TopLayer","HDR1X3","2095.669","1240.157","180","Header, 3-Pin"
+"P4_VCC_3.3","Header 3","TopLayer","HDR1X3","4064.961","1960.236","270","Header, 3-Pin"
+"P3_VCC_5","Header 3","TopLayer","HDR1X3","2568.110","1259.842","180","Header, 3-Pin"
+"P2_GPS","Header 5","TopLayer","HDR1X5","4064.961","2747.000","270","Header, 5-Pin"
+"P1_IN","2Õë×ù×Ó","TopLayer","2Õë×ù×Ó","343.011","49.212","90",""
+"D6","1N4007","TopLayer","1N4007","1035.480","118.738","180",""
+"D5","1N4007","TopLayer","1N4007","1035.480","-78.741","180",""
+"D4","1N4007","TopLayer","1N4007","1624.016","775.544","90",""
+"D3","1N4007","TopLayer","1N4007","1476.378","776.772","90",""
+"D2","1N4007","TopLayer","1N4007","1328.740","776.771","90",""
+"D1","1N4007","TopLayer","1N4007","1171.873","775.544","90",""
+"C5","Cap104","TopLayer","Cap104","352.756","541.338","180",""
+"C4","Cap100uF","TopLayer","Cap100uF","903.937","905.512","0",""
+"C3","Cap104","TopLayer","Cap104","346.062","384.479","180",""
+"C2","Cap1000uF","TopLayer","Cap1000uF","351.181","905.512","180",""
+"C1","Cap","TopLayer","C2012","3730.315","3789.370","180","ÌùÆ¬µçÈÝ"

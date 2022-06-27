@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=VCC_3.3 Pin=U6-4
+Added Pin To Net: NetName=PB5 Pin=U1-19
+Added Net: Name=PB5
+Added Room: Name=Master_Sch

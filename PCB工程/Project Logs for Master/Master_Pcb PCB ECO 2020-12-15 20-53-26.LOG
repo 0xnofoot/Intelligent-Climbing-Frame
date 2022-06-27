@@ -1,0 +1,10 @@
+Added Component: Designator=U6(2Õë¿í×ù×Ó)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetAC×ù_1 Pin=U6-1
+Added Pin To Net: NetName=NetAC×ù_2 Pin=U6-2
+Added Pin To Net: NetName=GND Pin=U6-3
+Added Pin To Net: NetName=PB5 Pin=U6-4
+Added Member To Class: ClassName=Master_Sch Member=Component Relay1 3Õë×ù×Ó
+Added Member To Class: ClassName=Master_Sch Member=Component Relay2 Relay_single
+Added Member To Class: ClassName=Master_Sch Member=Component U6 SANMIM
+Added Room: Name=Master_Sch

@@ -1,0 +1,32 @@
+Change component parameters: Designator = "C1"; Footprint = "C2012"; UniqueID = "\OGBSLPUX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1"; Footprint = "R2012"; UniqueID = "\COJTMVSC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "120R"; VariantName = "[No Variations]"
+Added Component: Designator=AC×ù(2Õë×ù×Ó)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U6(2Õë¿í×ù×Ó)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=U6-3
+Added Pin To Net: NetName=NetAC×ù_1 Pin=AC×ù-1
+Added Pin To Net: NetName=NetAC×ù_1 Pin=U6-1
+Added Net: Name=NetAC×ù_1
+Added Pin To Net: NetName=NetAC×ù_2 Pin=AC×ù-2
+Added Pin To Net: NetName=NetAC×ù_2 Pin=U6-2
+Added Net: Name=NetAC×ù_2
+Added Pin To Net: NetName=PB5 Pin=U1-19
+Added Net: Name=PB5
+Added Member To Class: ClassName=Master_Sch Member=Component AC×ù 2Õë×ù×Ó
+Added Member To Class: ClassName=Master_Sch Member=Component U6 SANMIM
+Added Room: Name=Master_Sch
